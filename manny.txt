@@ -1,0 +1,10 @@
+[user@hostname ~]$ fortune | cowsay
+ ________________________________________
+/ You have Egyptian flu: you're going to \
+\ be a mummy.                            /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
